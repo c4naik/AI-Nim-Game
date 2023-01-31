@@ -1,5 +1,5 @@
 # Nim-Game
-Mini project for Artificial Intelligence course based on minimax algorithm.
+Artificial Intelligence mini-project based on minimax algorithm.
 
 RULES:
 In alternative turns, a player can remove any number of coins from any pile he chooses. The player to remove the last coin wins the game.
